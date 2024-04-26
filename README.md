@@ -1,5 +1,4 @@
-
-![Banner about me](https://calamoazul.com/documents/banner_calamo_azul.png)
+![banner_calamo_azul](https://github.com/calamoazul/calamoazul/assets/90986571/c84c5dc9-b8e3-49ce-8740-a6ca6f4c0342)
 
 
 > ## Projects
