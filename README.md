@@ -8,7 +8,7 @@
 - Portafolio con todos mis proyectos. Desarrollado con Laravel y Vue3
 
 <a href="https://github.com/calamoazul/space-invaders" target="_blank">🛸 **Space Invaders**</a>
-- Videouego de marcianitos desarrollado con Unity 3 y C#. Proyeco final de Curso de Desarrollo de Videojuegos en Unity 3 de Deusto Formación
+- Videouego de marcianitos desarrollado con Unity 3 y C#. Proyecto final de Curso de Desarrollo de Videojuegos en Unity 3 de Deusto Formación
 
 <a href="https://github.com/calamoazul/tareas-vue" target="_blank">🕜 **Todo Vue**</a>
 - App de listado de tareas desarrollada con Vue 3.
