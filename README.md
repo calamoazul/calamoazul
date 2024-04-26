@@ -18,3 +18,8 @@
 
 <a href="https://sirenbooks.es/">🌐 **Landings WordPress**</a>
 - I have worked in many marketing agencies where I developed diferent WordPress landpages and E-Commerce 
+
+
+> ## RRSS
+- [Twitter](https://twitter.com/calamo_dev)
+- [Linkedin](https://www.linkedin.com/in/%C3%B3scar-hern%C3%A1ndez-g%C3%B3mez-2b8438147/)
