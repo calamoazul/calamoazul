@@ -13,8 +13,8 @@
 <a href="https://github.com/calamoazul/tareas-vue" target="_blank">🕜 **Todo Vue**</a>
 - App de listado de tareas desarrollada con Vue 3.
 
-<a href="https://github.com/calamoazul/Analizador-estad-sticas" target="_blank"></a>💹 **Statistics Analyzer**</a>
-- App de consola para visualizar estadísticas de casos de Covid durante la pandemia. Proyecto final de Curso de Programación de Python de Deusto Formmación.
+<a href="https://github.com/calamoazul/Analizador-estad-sticas" target="_blank">💹 **Statistics Analyzer**</a>
+- App de consola para visualizar estadísticas de casos de Covid durante la pandemia. Proyecto final de Curso de Programación de Python de Deusto Formación.
 
 <a href="https://sirenbooks.es/">🌐 **Landings WordPress**</a>
 - He trabajado también desarrollando distintas landingos de WordPress y Woocommerce.
