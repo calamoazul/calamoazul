@@ -19,7 +19,7 @@
 <a href="https://sirenbooks.es/">🌐 **Landings WordPress**</a>
 - He trabajado también desarrollando distintas landingos de WordPress y Woocommerce.
 
-<a href=""https://github.com/calamoazul/bash-scripts>Scripts de Bash</a>
+<a href="https://github.com/calamoazul/bash-scripts">Scripts de Bash</a>
 - Ejemplos de scripts en bash y con otros lenguajes de programación para la realización de diversas tareas.
 
 
